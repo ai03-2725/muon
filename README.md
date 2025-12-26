@@ -28,3 +28,7 @@ Pinout is identical to the Unified Daughterboard series.
 Only use a one-to-one cable (the same type used on the Unified Daughterboard JST-type boards; pin 1 of one end maps to pin 1 of the other end).  
 
 ![Pinout](/Documentation/pinout.png)
+
+## Dimensions
+
+![Dimensions](/Documentation/dimensions.png)
