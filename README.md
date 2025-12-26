@@ -30,5 +30,6 @@ Only use a one-to-one cable (the same type used on the Unified Daughterboard JST
 ![Pinout](/Documentation/pinout.png)
 
 ## Dimensions
-
+Mounting holes are M3 (3.2mm diameter).  
+Max diameter for screw heads/standoffs/mounting points contacting the board is 6.25mm centered on the mounting holes.  
 ![Dimensions](/Documentation/dimensions.png)
