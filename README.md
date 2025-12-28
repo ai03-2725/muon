@@ -24,17 +24,17 @@ Minimal USB-C to JST-SH daughterboard PCB
   - ESD/overcurrent/overvoltage protection, single-path grounding of case via mounting screws
   - JST-SH connector with identical pinout to the Unified Daughterboard
 
-## Pinout
-
-Pinout is identical to the Unified Daughterboard series.  
-Only use a one-to-one cable (the same type used on the Unified Daughterboard JST-type boards; pin 1 of one end maps to pin 1 of the other end).  
-
-![Pinout](/Documentation/pinout.png)
-
 ## Dimensions
 Mounting screws are M2.5.  
 Only use flat screws - countersunk screws apply focused angled pressure on the screw holes and risk shattering the board apart.  
   
 Recommended max diameter for screw heads/standoffs/mounting points contacting the board is 5.00mm centered on the mounting holes.  
 Absolute max diameter is 6.2mm; ESD handling capabilities may be reduced when exceeding 5.00mm.  
-![Dimensions](/Documentation/dimensions.png)
+![Dimensions](/Documentation/muon-a2-dimensions.png)
+
+## Pinout
+
+Pinout is identical to the Unified Daughterboard series.  
+Only use a one-to-one cable (the same type used on the Unified Daughterboard JST-type boards; pin 1 of one end maps to pin 1 of the other end).  
+
+![Pinout](/Documentation/muon-a2-pinout.png)
