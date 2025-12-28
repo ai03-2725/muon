@@ -1,15 +1,25 @@
 # muon
-Minimal USB-C to JST-SH daughterboard PCB
+Minimal USB-C to JST-SH daughterboard PCBs
 
 **Currently in development; not finalized or tested.**
 
+## Variants
+
+## Variant A (latest revision A2)
+Narrow and wide variant
 ![Rear](/Documentation/muon-a2-rear.png)
 ![Front](/Documentation/muon-a2-front.png)
+
+## Variant B (latest revision B1)
+Symmmetrical and rectangular variant
+![Rear](/Documentation/muon-b1-rear.png)
+![Front](/Documentation/muon-b1-front.png)
 
 ## Features
 
 - Physically compact
-  - 31.50 x 10.00 mm
+  - 31.50 x 10.00 mm for Variant A
+  - 20.00 x 13.00 mm for Variant B
   - Balanced minimizing of dimensions with a focus on ease of implementation on the case-side
 - Physically robust
   - 2x M2.5 screws for a balance between robustness, ease of manufacturing, user-friendliness, and physical compactness
@@ -34,8 +44,13 @@ Mounting screws are M2.5.
 Only use flat screws - countersunk screws apply focused angled pressure on the screw holes and risk shattering the board apart.  
   
 Recommended max diameter for screw heads/standoffs/mounting points contacting the board is 5.00mm centered on the mounting holes.  
-Absolute max diameter is 6.2mm; ESD handling capabilities may be reduced when exceeding 5.00mm.  
+Absolute max diameter is 6.0mm; ESD handling capabilities may be reduced when exceeding 5.00mm.  
+
+### Variant A
 ![Dimensions](/Documentation/muon-a2-dimensions.png)
+
+### Variant B
+![Dimensions](/Documentation/muon-b1-dimensions.png)
 
 ## Pinout
 
