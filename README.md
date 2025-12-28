@@ -5,12 +5,12 @@ Minimal USB-C to JST-SH daughterboard PCBs
 
 ## Variants
 
-## Variant A (latest revision A2)
+### Variant A (latest revision A2)
 Narrow and wide variant
 ![Rear](/Documentation/muon-a2-rear.png)
 ![Front](/Documentation/muon-a2-front.png)
 
-## Variant B (latest revision B1)
+### Variant B (latest revision B1)
 Symmmetrical and rectangular variant
 ![Rear](/Documentation/muon-b1-rear.png)
 ![Front](/Documentation/muon-b1-front.png)
