@@ -47,9 +47,11 @@ Recommended max diameter for screw heads/standoffs/mounting points contacting th
 Absolute max diameter is 6.0mm; ESD handling capabilities may be reduced when exceeding 5.00mm.  
 
 ### Variant A
+Ends are roughly 5mm radius (slightly inset from a perfect arc for visual reasons).
 ![Dimensions](/Documentation/muon-a2-dimensions.png)
 
 ### Variant B
+Corners are roughly 1.8125mm radius (slightly inset from a perfect arc for visual reasons).
 ![Dimensions](/Documentation/muon-b1-dimensions.png)
 
 ## Pinout
