@@ -1,6 +1,8 @@
 # muon
 Minimal USB-C to JST-SH daughterboard PCB
 
+**Currently in development; not finalized or tested.**
+
 ![Back](/Documentation/muon-back.png)
 ![Front](/Documentation/muon-front.png)
 
