@@ -3441,7 +3441,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Pad-M3"
+		(property "Value" "Pad-M2.5"
 			(at 185.42 77.4699 0)
 			(effects
 				(font
@@ -3450,7 +3450,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole-M3-Simple"
+		(property "Footprint" "locallib:MountingHole-M2.5-Simple"
 			(at 182.88 76.2 0)
 			(effects
 				(font
@@ -3845,7 +3845,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Pad-M3"
+		(property "Value" "Pad-M2.5"
 			(at 185.42 85.0899 0)
 			(effects
 				(font
@@ -3854,7 +3854,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole-M3-Simple"
+		(property "Footprint" "locallib:MountingHole-M2.5-Simple"
 			(at 182.88 83.82 0)
 			(effects
 				(font

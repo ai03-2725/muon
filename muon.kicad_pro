@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.2,
-          "height": 3.2,
-          "width": 3.2
+          "drill": 2.7,
+          "height": 2.7,
+          "width": 2.7
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -525,10 +525,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "./References/Paste",
+      "plot": "Production/Gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "muon.step",
+      "step": "muon-3D-full.step",
       "svg": "",
       "vrml": ""
     },
