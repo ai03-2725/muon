@@ -10,16 +10,16 @@ Narrow and wide variant
 ![Rear](/Documentation/muon-a2-rear.png)
 ![Front](/Documentation/muon-a2-front.png)
 
-### Variant B (latest revision B1)
+### Variant B (latest revision B2)
 Symmmetrical and rectangular variant
-![Rear](/Documentation/muon-b1-rear.png)
-![Front](/Documentation/muon-b1-front.png)
+![Rear](/Documentation/muon-b2-rear.png)
+![Front](/Documentation/muon-b2-front.png)
 
 ## Features
 
 - Physically compact
   - 31.50 x 10.00 mm for Variant A
-  - 20.00 x 13.00 mm for Variant B
+  - 20.00 x 13.50 mm for Variant B
   - Balanced minimizing of dimensions with a focus on ease of implementation on the case-side
 - Physically robust
   - 2x M2.5 screws for a balance between robustness, ease of manufacturing, user-friendliness, and physical compactness
@@ -33,7 +33,7 @@ Symmmetrical and rectangular variant
   - Straightforward, rational dimensions
   - Large USB connector overhang for case-side flexibility and robustness
   - Can be mounted component-side-up or component-side-down for prioritizing ease of servicing or physical compactness respectively  
-  - 3D models and example case-side implementation provided
+  - 3D models and example case-side implementation provided (see the References folders in the Var-A/Var-B directories)
   - Designed with aesthetics in mind to avoid detracting from case visuals  
 - Proven circuitry and implementation based on the [Unified Daughterboard series](https://unified-daughterboard.github.io/#/)
   - ESD/overcurrent/overvoltage protection, single-path grounding of case via mounting screws
@@ -47,12 +47,12 @@ Recommended max diameter for screw heads/standoffs/mounting points contacting th
 Absolute max diameter is 6.0mm; ESD handling capabilities may be reduced when exceeding 5.00mm.  
 
 ### Variant A
-Ends are roughly 5.00mm radius (slightly inset from a perfect arc for visual reasons).
+Ends are roughly 5.00mm radius (slightly inset from a tangent arc for visual reasons).
 ![Dimensions](/Documentation/muon-a2-dimensions.png)
 
 ### Variant B
-Corners are roughly 1.80mm radius (slightly inset from a perfect arc for visual reasons).
-![Dimensions](/Documentation/muon-b1-dimensions.png)
+Corners are roughly 1.85mm radius (slightly inset from a tangent arc for visual reasons).
+![Dimensions](/Documentation/muon-b2-dimensions.png)
 
 ## Pinout
 
