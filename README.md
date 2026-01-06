@@ -35,6 +35,7 @@ Symmmetrical and rectangular variant
   - Can be mounted component-side-up or component-side-down for prioritizing ease of servicing or physical compactness respectively  
   - 3D models and example case-side implementation provided (see the References folders in the Var-A/Var-B directories)
   - Designed with aesthetics in mind to avoid detracting from case visuals  
+  - Example implementations can be CNC-machined with 2mm inner radius
 - Proven circuitry and implementation based on the [Unified Daughterboard series](https://unified-daughterboard.github.io/#/)
   - ESD/overcurrent/overvoltage protection, single-path grounding of case via mounting screws
   - JST-SH connector with identical pinout to the Unified Daughterboard
